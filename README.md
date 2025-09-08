@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack dev building stuff that works—not just looks cool.<br>I build with React.js, Node.js/Express, and Python.
+I'm a full-stack dev building stuff that works—not just looks cool.<br>I have worked in React.js, Node.js/Express, and Python.
 
 
 ## 🌐 Socials:
